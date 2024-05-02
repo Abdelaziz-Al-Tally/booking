@@ -13,4 +13,4 @@
     * 3/1/2022 – 12/1/2022 (10days) => $3.00 X 10 => $30.00
     * 13/1/2022 – 13/1/2022 (1day) => $5.00 X 1 => $5.00
     * The total price for the whole period will be: `$35.00` <- This was the mistake
-* To make reviewing this task easier, i have included both test cases that were included in the task, I also added these in the tests
+* To make reviewing this task easier, I've included both test cases that were included in the task, I also added thes two in the tests
