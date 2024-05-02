@@ -1,0 +1,22 @@
+{
+  "name": "kabi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm i && tsc",
+    "start": "npm run build && node index"
+  },
+  "author": {
+    "name": "Abdelaziz Al. Tally",
+    "email": "abdelaziz.altally@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.15",
+    "jest": "^28.1.2"
+  }
+}
